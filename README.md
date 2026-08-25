@@ -1,4 +1,4 @@
-# Portfolio Project Value Analyzer
+# Project Value Analyzer (Mini Portfolio Project)
 
 An automated evaluation and grading simulation tool written entirely in pure Python. This console application is designed as a college mini-project to showcase structural string processing, algorithmic rule matching, dynamic lookup maps, and composite mathematical score formulations without relying on any external packages or frameworks.
 
